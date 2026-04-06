@@ -40,7 +40,7 @@ function App() {
               <div className="card-body">
                 <h5 className="card-title">Filtros</h5>
                 <p className="text-muted small">Mostrando todos os incidentes.</p>
-                <button className="btn btn-outline-primary btn-sm w-100" onClick={() => alert("Na prática, isso filtraria a lista!")}>
+                <button className="btn btn-outline-primary btn-sm w-100" onClick={() => alert("Filtrando a lista de incidentes!")}>
                   Recarregar Dados
                 </button>
               </div>
